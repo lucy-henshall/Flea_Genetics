@@ -1,0 +1,19 @@
+# See http://rmarkdown.rstudio.com/rmarkdown_websites.html
+
+name: "Flea Genetics"
+output_dir: "."
+
+output:
+  html_document:
+    theme: flatly
+    highlight: tango
+    toc: true
+    toc_depth: 2
+    toc_float:
+      collapsed: false
+    fig_align: center
+    # anchor_sections = FALSE
+    # css: 'styles.css'
+    # css:
+    #  - https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css
+    #  - styles.css
