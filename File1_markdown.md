@@ -27,3 +27,5 @@ text3d(scores2[,1:3],
         texts= row.names(scores2), 
         cex= 0.8, pos=3) 
 ```
+
+Rendered site: https://lucy-henshall.github.io/FCA
